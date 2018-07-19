@@ -1,0 +1,2 @@
+# smart
+say hello
